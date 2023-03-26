@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![SF img 1](/assets/images/myimage.jpg)
+![SF img 1](assets/images/welcome/city.jpg)
