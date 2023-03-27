@@ -18,7 +18,7 @@ Prostitution has seen one of the biggest drop-in crime rates in San Francisco. B
 
 Although the causes of the steady but sharp reduction in prostitution rates are not clear, we will attempt to illustrate a few potential explanations.
 
-A shift in the focus from one type of crime to another, e.g., auto thefts (), which overlooks or gives less attention to other crimes, may be one of the causes of the decline of prostitution. 
+A shift in the focus from one type of crime to another, e.g., auto thefts (as seen in figure 2), which overlooks or gives less attention to other crimes, may be one of the causes of the decline of prostitution. 
 
 <figure>
   {% include plotly.html %}
