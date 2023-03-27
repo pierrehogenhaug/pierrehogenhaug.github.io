@@ -9,7 +9,7 @@ city: /assets/images/welcome/city.jpg
 
 ## A Data-Driven Exploration
 This narrative story examines the criminal records for San Francisco from 2003 to the middle of 2018. The dataset was obtained from the Public Safety section of [https://datasf.org/opendata/](https://datasf.org/opendata/). The prostitution trend is one of the crimes that this article is going to focus on.
-Prostitution has seen one of the biggest drop-in crime rates in San Francisco. Between 2003 and 2015, the number of crimes dropped from about 2,000 per year to less than 500, as seen in the graph below.
+Prostitution has seen one of the biggest drop-in crime rates in San Francisco. Between 2003 and 2015, the number of crimes dropped from about 2,000 per year to less than 500, as seen in the **figure 1** below.
 
 <figure>
   <img src="/assets/images/welcome/timeseries.png" alt="Prostitution Crimes in San Francisco from 2003-2017">
@@ -18,7 +18,7 @@ Prostitution has seen one of the biggest drop-in crime rates in San Francisco. B
 
 Although the causes of the steady but sharp reduction in prostitution rates are not clear, we will attempt to illustrate a few potential explanations.
 
-A shift in the focus from one type of crime to another, e.g., auto thefts, which overlooks or gives less attention to other crimes, may be one of the causes of the decline of prostitution.
+A shift in the focus from one type of crime to another, e.g., auto thefts (), which overlooks or gives less attention to other crimes, may be one of the causes of the decline of prostitution. 
 
 <figure>
   {% include plotly.html %}
@@ -31,7 +31,7 @@ One notable effort is the San Francisco Collaborative Against Human Trafficking 
 
 Another initiative is the First Offender Prostitution Program (FOPP), which was launched in 1995 but expanded in 2003. FOPP provides educational and counselling services to first-time prostitution offenders as an alternative to prosecution, with the goal of reducing recidivism and addressing the root causes of prostitution. FOPP has been credited with reducing the demand for prostitution in San Francisco and improving outcomes for both offenders and survivors [https://crimesolutions.ojp.gov/ratedprograms/505](https://crimesolutions.ojp.gov/ratedprograms/505)
 
-Based on research and analysis of the data reveals a pattern that the Mission district has the highest rates of prostitution in San Francisco. In the graph below [cite graph], the Mission area is where most of the prostitution is taking place.
+Based on research and analysis of the data reveals a pattern that the Mission district has the highest rates of prostitution in San Francisco. In **figure 3**, the Mission area is where most of the prostitution is taking place.
 
 <figure>
   {% include bokeh.html %}
